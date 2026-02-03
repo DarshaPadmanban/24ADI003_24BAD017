@@ -6,15 +6,15 @@ The dataset for this project is taken from **Kaggle**:
 https://www.kaggle.com/datasets/sohier/calcofi
 
 ## Code 
-https://github.com/lil-D27/24ADI003L_24BAD019/blob/4448e939f5ae9f59cc4fd37b9d0617c8878c8091/EXERCISE%202/SCENARIO%201
+https://github.com/DarshaPadmanban/24ADI003_24BAD017/blob/63276d1207014eb9bf6e1912a72e25281765e891/scenario%201
 
 ## Output
 
 ### Output 1  
-![Scenario 1 Output 1](https://github.com/lil-D27/24ADI003L_24BAD019/blob/d1730b9138415678698bd2fcceb08d845ddecb4d/EXERCISE%202/FIGURES/OUTPUT%20SCENARIO%201/s1.png)
+![Scenario 1 Output 1](https://github.com/DarshaPadmanban/24ADI003_24BAD017/blob/63276d1207014eb9bf6e1912a72e25281765e891/output/scenario%201%20output/Screenshot%202026-02-03%20153447.png)
 
 ### Output 2
-![Scenario 1 Output 2](https://github.com/lil-D27/24ADI003L_24BAD019/blob/d1730b9138415678698bd2fcceb08d845ddecb4d/EXERCISE%202/FIGURES/OUTPUT%20SCENARIO%201/s1(1).png)
+![Scenario 1 Output 2](https://github.com/DarshaPadmanban/24ADI003_24BAD017/blob/63276d1207014eb9bf6e1912a72e25281765e891/output/scenario%201%20output/Screenshot%202026-02-03%20153242.png)
 
 
 
@@ -26,15 +26,15 @@ The dataset for this project is taken from **Kaggle**:
 https://www.kaggle.com/datasets/debashis74017/lic-stock-price-data
 
 ## Code 
-https://github.com/lil-D27/24ADI003L_24BAD019/blob/4448e939f5ae9f59cc4fd37b9d0617c8878c8091/EXERCISE%202/SCENARIO%202
+https://github.com/DarshaPadmanban/24ADI003_24BAD017/blob/63276d1207014eb9bf6e1912a72e25281765e891/scenario%202
 
 ## Output
 
 ### Output 1  
-![Scenario 1 Output 1](https://github.com/lil-D27/24ADI003L_24BAD019/blob/886c0345cf3e9182a7adfd4441703f2035d132f8/EXERCISE%202/FIGURES/OUTPUT%20SCENARIO%202/s2.png)
+![Scenario 1 Output 1](https://github.com/DarshaPadmanban/24ADI003_24BAD017/blob/63276d1207014eb9bf6e1912a72e25281765e891/output/scenrio%202%20output/Screenshot%202026-02-03%20153628.png)
 
 ### Output 2
-![Scenario 1 Output 2](https://github.com/lil-D27/24ADI003L_24BAD019/blob/886c0345cf3e9182a7adfd4441703f2035d132f8/EXERCISE%202/FIGURES/OUTPUT%20SCENARIO%202/s2(1).png)
+![Scenario 1 Output 2](https://github.com/DarshaPadmanban/24ADI003_24BAD017/blob/63276d1207014eb9bf6e1912a72e25281765e891/output/scenrio%202%20output/Screenshot%202026-02-03%20153712.png)
 
 ### Output 3
-![Scenario 1 Output 1](https://github.com/lil-D27/24ADI003L_24BAD019/blob/886c0345cf3e9182a7adfd4441703f2035d132f8/EXERCISE%202/FIGURES/OUTPUT%20SCENARIO%202/s2(2).png)
+![Scenario 1 Output 1](https://github.com/DarshaPadmanban/24ADI003_24BAD017/blob/63276d1207014eb9bf6e1912a72e25281765e891/output/scenrio%202%20output/Screenshot%202026-02-03%20153746.png)
